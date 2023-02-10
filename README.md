@@ -1,3 +1,1 @@
-# code-beautify
-# code-beautify
-# code-beautify
+# This is a short assignment task for codeBeautify. 
